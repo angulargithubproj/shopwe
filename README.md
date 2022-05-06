@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 the idea is to make a shop that makes it easy to get the good deals 
 so shopwe is a store containing 6 articles that are valid for only 24 hours 
-the product list will be updated every day  and new deals will be revealed
+the product list will be updated every day  and new deals will be revealed and with a light simplistic design it is simple to manage and use 
 
 ## Development server
 
